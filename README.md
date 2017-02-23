@@ -26,3 +26,7 @@ HTML email template
   - (top, right, bottom and left): if not, results will be affected.
   - use inline css to add padding, then insert image
   - center image: align
+
+## Content Area
+ - add padding to the middle cell: allows table inside to have space around it.
+ -
