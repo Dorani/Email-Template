@@ -17,3 +17,5 @@ HTML email template
 ## Creating the Structure and Header
 
 - duplicate the single row we already made, make 3.
+- next we need to color them accordingly using :
+ - bgcolor: html coloring attribute used instead of css.
