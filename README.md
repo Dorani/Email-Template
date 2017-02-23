@@ -1,7 +1,7 @@
 # Email-Template
 HTML email template
 
-#Creating the Body and Main Table
+# Creating the Body and Main Table
 
 - add an overall structure
  - <body> tag setting: 0, 0: avoid any unexpected space.
@@ -13,3 +13,7 @@ HTML email template
  - golden rule in html email: if an attribute exists in HTML, use that instead of CSS.
 
 -We've also added an inline style property that sets the border-collapse property to collapse. If we don’t do this, newer versions of Outlook will add a small space between our table and our border.
+
+## Creating the Structure and Header
+
+- duplicate the single row we already made, make 3.
