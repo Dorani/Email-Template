@@ -19,3 +19,10 @@ HTML email template
 - duplicate the single row we already made, make 3.
 - next we need to color them accordingly using :
  - bgcolor: html coloring attribute used instead of css.
+
+## Rows
+ - adjust padding on the cell then insert our image
+ - when using padding for email templates we always have to specify all values
+  - (top, right, bottom and left): if not, results will be affected.
+  - use inline css to add padding, then insert image
+  - center image: align
