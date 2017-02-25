@@ -29,4 +29,4 @@ HTML email template
 
 ## Content Area
  - add padding to the middle cell: allows table inside to have space around it.
- -
+ 
